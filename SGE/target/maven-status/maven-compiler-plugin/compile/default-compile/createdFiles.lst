@@ -1,0 +1,7 @@
+com\mycompany\sge\DatabaseConnection.class
+com\mycompany\sge\SGE.class
+com\mycompany\sge\Fornecedor.class
+com\mycompany\sge\Carrinho.class
+com\mycompany\sge\Estoque.class
+com\mycompany\sge\Produto.class
+com\mycompany\sge\ItemCarrinho.class
